@@ -9,7 +9,7 @@ Traveloop is a beautiful, modern Android application built entirely with **Jetpa
 <p align="center">
   <img src="screenshots/dashboard.png" width="300" alt="Traveloop Dashboard">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/explore.png" width="300" alt="Traveloop Explore">
+  <img src="screenshots/explore.png" width="306" alt="Traveloop Explore">
 </p>
 
 ## ✨ Features
