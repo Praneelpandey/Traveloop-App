@@ -2,7 +2,7 @@
 
 > Your ultimate travel companion for exploring, planning, and managing trips flawlessly. ✈️
 
-Traveloop is a beautiful, modern Android application built entirely with **Jetpack Compose**. It aims to solve the modern traveler's problems by offering an all-in-one suite to discover trending destinations, book experiences, manage trip budgets, and organize digital travel documents. 
+Traveloop is a beautiful, modern Android application built entirely with **Jetpack Compose**. It aims to solve the modern traveler's problems by offering an all-in-one suite to discover trending destinations, book experiences, manage trip budgets, and organize digital travel documents . 
 
 ## 📸 Screenshots
 
