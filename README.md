@@ -45,4 +45,4 @@ Traveloop is a beautiful, modern Android application built entirely with **Jetpa
 Contributions, issues, and feature requests are welcome!
 
 ---
-*Crafted with ❤️ for modern travelers.*
+*Crafted with ❤️ for modern travellers.*
